@@ -1,0 +1,17 @@
+.sliderresim {
+    height: 700px;
+    object-fit: cover;
+    width: 100%;
+}
+.urunbaslık {
+    text-align: center;
+    margin-top: 30px;
+}
+.abaout {
+    text-align: center;
+    margin-top: 30px;
+}
+
+body {
+    background-color: #f2f2f2;
+}
